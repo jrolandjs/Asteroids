@@ -12,3 +12,4 @@ wheels/
 # Custom files
 setup.mds
 game_stats.jsonl
+game_events.jsonl
